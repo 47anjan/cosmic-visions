@@ -2,12 +2,12 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Cosmic View | Interactive Particle Visualizer",
+  title: "Cosmic Visions | Interactive Particle Visualizer",
   description:
-    "Cosmic View is an interactive particle visualizer that transforms particles into dynamic shapes like galaxies, fractals, DNA helices, waves, and constellations using HTML Canvas.",
+    "Cosmic Visions is an interactive particle visualizer that transforms particles into dynamic shapes like galaxies, fractals, DNA helices, waves, and constellations using HTML Canvas.",
   keywords: [
     "particle visualizer",
-    "cosmic view",
+    "cosmic visions",
     "generative art",
     "canvas animation",
     "particle system",
